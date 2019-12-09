@@ -2,7 +2,7 @@
 
 # aiCache Version 6.x
 
-aiCache is a unique software product that creates a better user experience by increasing the speed and availability of your site. aiCache accomplishes this by offloading request processing from the web, application and database tiers, reducing code complexity and infrastructure footprint.
+aiCache is a unique software product that creates a better user experience by increasing the speed and availability of your site. aiCache accomplishes this by offloading request processing from the web, application and database tiers, reducing code complexity and infrastructure footprint. aiCache offers:
 
 * Very straightforward configuration syntax
 * Dynamic caching & sharing of web content, including GET and POST requests
@@ -12,8 +12,9 @@ aiCache is a unique software product that creates a better user experience by in
 * Cluster support - run a centrally managed set of aiCache servers
 * Fallback mode to keep your site up even in case of backend failures
 * Advanced monitoring and alerting
+* Feature rich CLI and Web interfaces
 * Flexible mobile and geo processing
 
 Many more features are available, please refer [to Admin Guide](https://github.com/aicache/v6/blob/master/doc/aicache_adm_guide-600.pdf) for in-depth information.
 
-aiCache is a Linux binary, easy to install and take for an easy, no obligation, fully functional test drive. Simply download a distribution tar file from the [distrib section](https://github.com/aicache/v6/tree/master/distrib).
+aiCache is a Linux binary, easy to install and take for an easy, no obligation, fully functional test drive. Simply download a distribution tar file from the [distrib section](https://github.com/aicache/v6/tree/master/distrib) and follow the included instructions to get going.
