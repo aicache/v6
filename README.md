@@ -13,4 +13,4 @@ aiCache is a unique software product that creates a better user experience by in
 
 Many more features are available, please refer to doc section for in-depth information.
 
-aiCache is a Linux binary, easy to install and take for a trial spin. Simply download a distribution tar file from the distrib section.
+aiCache is a Linux binary, easy to install and take for a [trial spin](https://github.com/aicache/v6/blob/master/doc/aicache_adm_guide-600.pdf). Simply download a distribution tar file from the distrib section.
