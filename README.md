@@ -1,4 +1,7 @@
-# v6
+![logo](https://github.com/aicache/v6/blob/master/static/ailogo.jpg)
+
+# aiCache Version 6.x
+
 aiCache is a unique software product that creates a better user experience by increasing the speed and availability of your site. aiCache accomplishes this by offloading request processing from the web, application and database tiers, reducing code complexity and infrastructure footprint.
 
 * Very straightforward configuration syntax
